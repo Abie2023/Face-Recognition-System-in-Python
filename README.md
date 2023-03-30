@@ -1,5 +1,6 @@
 <h1>This is Face Recognition Based Attendance Management System</h1> 
 The technology used: OpenCV(Opensource Computer Vision)-Python, Tkinter-GUI interface<br><br>
+
 Let's see how it works :<br>
 1) Clone the repository by entering the command in terminal:<br>
   <i>   git clone https://github.com/Abie2023/Face-Recognition-System-in-Python.git </i> <br><br>
@@ -17,7 +18,6 @@ in terminal enter the command: <i>Python -m venv env</i>
 <ol><li><i><b>pip install opencv-python</b></i>
 <li><i><b>pip install pandas</b></i>
 <li><i><b>pip install pillow</b></i>
-<li><i><b>pip install pandas</b></i>
 <li><i><b>pip install shutils</b></i></ol></ol>
 <br>
 4)Run train.py and you are all set!<br><br>
