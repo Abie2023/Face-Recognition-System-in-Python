@@ -10,9 +10,7 @@ Let's see how it works :<br>
 in terminal enter the command: <i>Python -m venv env</i>
 <li>Activate the environment by entering the command : <i> ./env/Scripts/activate</i>
 <li>Install the libraries 
-
-	<div id="text">This text will be copied.</div>
-	<button onclick="copyToClipboard()">Copy Text</button>
+	<button onclick="copyToClipboard()"></button>
 
 <ol><li><i><b>pip install opencv-python</b></i>
 <li><i><b>pip install wheel</b></i>
