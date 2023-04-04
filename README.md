@@ -11,6 +11,8 @@ in terminal enter the command: <i>Python -m venv env</i>
 <li>Activate the environment by entering the command : <i> ./env/Scripts/activate</i>
 <li>Install the libraries 
 <ol><li><i><b>pip install opencv-python</b></i>
+<li><i><b>pip install wheel</b></i>
+<li><i><b>pip install face_recognition</b></i>
 <li><i><b>pip install pandas</b></i>
 <li><i><b>pip install pillow</b></i>
 <li><i><b>pip install shutils</b></i></ol></ol>
