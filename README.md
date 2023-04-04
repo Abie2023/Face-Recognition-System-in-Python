@@ -10,24 +10,10 @@ Let's see how it works :<br>
 in terminal enter the command: <i>Python -m venv env</i>
 <li>Activate the environment by entering the command : <i> ./env/Scripts/activate</i>
 <li>Install the libraries 
-  <!DOCTYPE html>
-<html>
-<head>
-	<title>Copy Text</title>
-</head>
-<body>
+
 	<div id="text">This text will be copied.</div>
 	<button onclick="copyToClipboard()">Copy Text</button>
 
-	<script type="text/javascript">
-		function copyToClipboard() {
-			var text = document.getElementById("text").innerText;
-			navigator.clipboard.writeText(text);
-			alert("Copied the text: " + text);
-		}
-	</script>
-</body>
-</html>
 <ol><li><i><b>pip install opencv-python</b></i>
 <li><i><b>pip install wheel</b></i>
 <li><i><b>pip install face_recognition</b></i>
