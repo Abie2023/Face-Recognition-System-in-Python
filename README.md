@@ -1,4 +1,5 @@
 <h1>This is Face Recognition Based Attendance Management System</h1> 
+<script type="Javascript.html/javascript">
 The technology used: OpenCV(Opensource Computer Vision)-Python, Tkinter-GUI interface<br><br>
 
 Let's see how it works :<br>
