@@ -12,7 +12,7 @@ in terminal enter the command: <i>Python -m venv env</i>
 <li>Install the libraries 
 	<button onclick="copyToClipboard()"></button>
 
-<ol><li><i><b>pip install opencv-python</b></i>
+<ol><li><button onclick="copyToClipboard()">pip install opencv-python</button>
 <li><i><b>pip install wheel</b></i>
 <li><i><b>pip install face_recognition</b></i>
 <li><i><b>pip install pandas</b></i>
