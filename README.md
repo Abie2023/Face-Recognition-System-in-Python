@@ -1,7 +1,3 @@
-<html>
-<head>
-</head>
-<body>
 <h1>This is Face Recognition Based Attendance Monitoring System</h1> 
 The technology used: OpenCV(Opensource Computer Vision)-Python, Tkinter-GUI interface<br><br>
 
@@ -23,5 +19,4 @@ The technology used: OpenCV(Opensource Computer Vision)-Python, Tkinter-GUI inte
 4) Run train.py and you are all set!<br><br>
 
 ![Face Recognition System 30-3-23 11_38_19 AM](https://user-images.githubusercontent.com/124857975/228792713-291db25d-f74a-46a7-824f-997c6296dfd8.png)
-</body>
-</html>
+
