@@ -7,7 +7,7 @@ The technology used: OpenCV(Opensource Computer Vision)-Python, Tkinter-GUI inte
 2) Open the Face-Recognition-System-in-Python folder in Visual studio code
 <ul>
 <li>Make an virtual environment as follows: in terminal enter the command: <br><u>Python -m venv env </u>
-<li>Activate the environment by entering the command : <u> ./env/Scripts/activate </u>
+<li>Activate the environment by entering the command : <br> ./env/Scripts/activate
 </ul>
 3) Install the libraries one by one<br><br>
 <u>pip install opencv-python</u> <br>
