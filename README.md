@@ -17,8 +17,7 @@ The technology used: OpenCV(Opensource Computer Vision)-Python, Tkinter-GUI inte
 <u>pip install pandas</u> <br>
 <u>pip install pillow</u> <br>
 <u>pip install shutils</u><br>
-<u>pip install mtcnn</u><br>
-<u>pip install TensorFlow</u><br><br>
+
 4) Run train.py and you are all set!<br><br>
 
 ![Face Recognition System 30-3-23 11_38_19 AM](https://user-images.githubusercontent.com/124857975/228792713-291db25d-f74a-46a7-824f-997c6296dfd8.png)
