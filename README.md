@@ -1,23 +1,38 @@
-<h1>This is Face Recognition Based Attendance Monitoring System</h1> 
-The technology used: OpenCV(Opensource Computer Vision)-Python, Tkinter-GUI interface<br><br>
+# Face Recognition Based Attendance Monitoring System
 
-<u>Let's see how it works</u> :<br>
-1) Clone the repository by entering the command in terminal:<br>
-<u>git clone https://github.com/Abie2023/Face-Recognition-System-in-Python.git</u><br><br>
-2) Open the Face-Recognition-System-in-Python folder in Visual studio code
-<ul>
-<li>Make an virtual environment as follows: in terminal enter the command: <br>Python -m venv env
-<li>Activate the environment by entering the command : <br> ./env/Scripts/activate
-</ul>
-3) Install the libraries one by one<br><br>
-<u>pip install opencv-python</u> <br>
-<u>pip install wheel</u> <br>
-<u>pip install face_recognition</u><br>
-<u>pip install opencv-contrib-python</u><br>
-<u>pip install pandas</u> <br>
-<u>pip install pillow</u> <br>
-<u>pip install shutils</u><br><br>
-4) Run train.py and you are all set!<br><br>
+**Technologies Used:** OpenCV (Open Source Computer Vision) with Python, Tkinter for GUI interface
 
-![Face Recognition System 30-3-23 11_38_19 AM](https://user-images.githubusercontent.com/124857975/228792713-291db25d-f74a-46a7-824f-997c6296dfd8.png)
+## How It Works
 
+1. Clone the repository by entering the following command in your terminal:
+    ```
+    git clone https://github.com/Abie2023/Face-Recognition-System-in-Python.git
+    ```
+
+2. Open the `Face-Recognition-System-in-Python` folder in Visual Studio Code.
+   Create a virtual environment by entering the command in the terminal:
+  ```
+  Python -m venv env
+  ```
+  Activate the environment by entering the command:
+  ```
+  ./env/Scripts/activate
+  ```
+
+3. Install the required libraries one by one using pip:
+    ```
+    pip install opencv-python
+    pip install wheel
+    pip install face_recognition
+    pip install opencv-contrib-python
+    pip install pandas
+    pip install pillow
+    pip install shutils
+    ```
+
+
+4. Run `train.py` to start using the system.
+
+## System Overview
+
+![Face Recognition System](https://user-images.githubusercontent.com/124857975/228792713-291db25d-f74a-46a7-824f-997c6296dfd8.png)
