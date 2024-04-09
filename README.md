@@ -22,11 +22,23 @@
 3. Install the required libraries one by one using pip:
     ```
     pip install opencv-python
+    ```
+    ```
     pip install wheel
+    ```
+    ```
     pip install face_recognition
+    ```
+    ```
     pip install opencv-contrib-python
+    ```
+    ```
     pip install pandas
+    ```
+    ```
     pip install pillow
+    ```
+    ```
     pip install shutils
     ```
 
